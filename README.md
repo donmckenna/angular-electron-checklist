@@ -44,6 +44,7 @@ I take no responsibility if anyone uses this checklist and subsequently is hit b
     `electron .`
 
 <br>
+
 ### NOTES
 
 If you're more familiar with Electron than Angular and wondering where `require("../renderer.js")` goes, the answer is "nowhere".
