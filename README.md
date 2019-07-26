@@ -10,7 +10,7 @@ I take no responsibility if anyone uses this checklist and subsequently is hit b
 <br>
 <hr>
 
-### How to watch (Webpack hot reload) an Angular app with routing inside an Electron app and refresh them both on an Angular `src/app` file change: 
+### How to watch (Webpack hot reload) an Angular app with routing inside an Electron app and refresh them both on an Angular `src/app/*` file change: 
 
 1. `yarn add -D electron-reload`
 
